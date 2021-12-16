@@ -1,0 +1,36 @@
+body,
+html{
+
+	width: 100%;
+	height: 100%;
+	
+	
+	color: white;
+	 background: url('blackheader1.png') no-repeat center center fixed;
+    background-size: cover;
+
+}
+h6
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+}
+
+h6:hover
+{
+	font-weight:bold;
+
+}
+
+.btn-light{
+
+font-size: 20px;
+
+}
+
+.btn-light:hover{
+
+font-weight:bold;
+
+
+}
